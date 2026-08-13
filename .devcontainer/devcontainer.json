@@ -1,0 +1,7 @@
+{
+  "name": "FORGE Panel",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "postCreateCommand": "npm install",
+  "forwardPorts": [8088],
+  "portsAttributes": { "8088": { "label": "FORGE панель" } }
+}
