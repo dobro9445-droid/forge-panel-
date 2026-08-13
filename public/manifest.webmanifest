@@ -1,0 +1,9 @@
+{
+  "name": "FORGE — панель игрового хостинга",
+  "short_name": "FORGE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1017",
+  "theme_color": "#0b1017",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
